@@ -27,15 +27,25 @@ How It Works
 
 The user starts by adding a patient's details and vital signs. The system processes the information using predefined rules and generates a priority score. Patients can then be viewed and organized according to their calculated priority.
 Patient Details
+
       ↓
+      
 Vital Signs & Symptoms
+
       ↓
+      
 Priority Calculation
+
       ↓
+      
 Priority Score
+
       ↓
+      
 Priority Level
+
       ↓
+      
 Emergency Priority Queue
 
 How to Run
