@@ -5,22 +5,35 @@ overview of the project: The Emergency Patient Priority System is a simple Pytho
 Based on the entered information, the system uses predefined rules to calculate a priority score and assign a priority level. This helps organize patients according to the urgency indicated by their recorded data.
 
 Key Features:
+
 *Add and record patient information
+
 *Enter and process basic vital signs
+
 *Calculate a priority score
+
 *Assign a priority level to each patient
+
 *View stored patient records
+
 *Arrange patients according to their priority
+
 *Provide a simple, menu-based interface
+
 
 Technologies Used:
 The project is developed using Python and uses basic programming concepts such as:
 
 *Functions
+
 *Lists and dictionaries
+
 *Conditional statements
+
 *Loops
+
 *Sorting
+
 *Input validation
 
 How It Works
