@@ -64,9 +64,15 @@ Emergency Priority Queue
 How to Run
 
 1.Download or clone this repository.
+
 2.Open the project in VS Code or another Python IDE.
+
 3.Run the main Python file.
+
 4.Follow the options displayed in the menu.
+
 5.Enter the required patient information when prompted.
+
 Future Improvements
+
 The project can be further developed by adding permanent data storage, a graphical user interface, patient search and update options, health-data visualizations, and detailed reports.
